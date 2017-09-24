@@ -1,7 +1,22 @@
 .column {
-  width: 25%;
+  width: 23%;
   float: left;
+  padding: 10px;
 }
 img.small {
   width: 80%;
+  padding: 20px;
+}
+.column ul li {
+  font-style: italic;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+.column h2 {
+  font-weight: bold;
+}
+.column h3 {
+  font-weight: bold;
 }
