@@ -20,3 +20,15 @@ h1 {
 .column h3 {
   font-weight: bold;
 }
+@media screen and (max-width: 480px) and (min-width: 300px){
+  body {
+    background-color: black;
+    color: white;
+  }
+}
+@media screen and (max-width: 1000px) and (min-width: 700px){
+  body {
+    background-color: gray;
+    color: black;
+  }
+}
